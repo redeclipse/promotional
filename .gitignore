@@ -1,0 +1,11 @@
+*~
+.directory
+.DS_Store
+*.orig
+*.core
+*.db
+*.diff
+*.ink
+*.patch
+*.out
+*.pds

@@ -1,0 +1,23 @@
+Red Eclipse v1.0 (Ides Edition) Out Now
+
+After a lot of hard work, the Red Eclipse Team is proud to present their first release, "Ides Edition" is now available as of Tuesday the 15th of March 2011.
+
+Downloads:
+* Windows: http://redeclipse.net/download/windows
+* Linux: http://redeclipse.net/download/linux
+* OS X: http://redeclipse.net/download/macos
+* Other/All: http://redeclipse.net/download/combined
+
+Among the things you can enjoy in Red Eclipse are:
+
+* Deathmatch, Capture the Flag, Defend the Flag, Bomber Ball, with tons more options combining mutators.
+* Lots of stuff to tweak. Create your own spin on gameplay or weapons using server side variables.
+* Agile gameplay which includes impulse dashing, wall running/kicking, melee attacks, and a jetpack mutator.
+* The builtin editor from Cube Engine 2 that allows you to cooperatively edit maps online in real time.
+
+If you like the game, please consider helping us raise the AU$294 for the creation of our new player model, which we have freely licensed under CC-BY-SA. Donate at our website, http://www.redeclipse.net/donate
+
+We hope you enjoy playing it as much as we've enjoyed creating it.
+
+Red Eclipse
+http://www.redeclipse.net/

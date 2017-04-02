@@ -1,0 +1,69 @@
+Two years in the making, Red Eclipse is back for the biggest release yet; v1.5 "Aurora Edition".
+
+We've been working hard on all areas of the game, improving weapon balance, refining the user interface, and helping new players learn the game. Included in this release is our new auto-updating mechanism, designed to keep you running the latest improvements and freshest maps.
+
+This release is also our first release as a true community built game. With a recent move to GitHub, the project is now openly developed, allowing everyone to contribute to the game we all love in a format where everyone gets a say (and learns how to contribute at the same time). If you feel like you'd have something to contribute, come see us in action!
+
+Downloads:
+* Windows: http://redeclipse.net/download/windows
+* Linux: http://redeclipse.net/download/linux
+* OS X: http://redeclipse.net/download/macos
+* Other/All: http://redeclipse.net/download/combined
+
+Here's some interesting things that have changed:
+* Support for giving AI orders ("defend", "attack", "base", "goal", "ball", "forget").
+* Better physics and bounce sounds for affinities (flags/points/bombs).
+* Footstep sounds, hear people approaching!
+* Auto team balancing, so you're never stuck with uneven team counts.
+* Rebalanced all weapons, making for a fairer game.
+* New weapon, the "zapper". Electrify your friends and foes!
+* Increased weapon spread when in air / impulsing
+* Rebranded Defend-The-Flag to Defend-And-Control, with a new look.
+* Increased buffing timeout tolerances when defending affinities.
+* Slicker menus, tips and rollover help text.
+* Scoreboard redesign and better colouring.
+* Ability to send a message to a specific player with "whisper".
+* Map changes:
+    - Race
+        + Absorption - new race map by Unnamed
+        + Decomposition - new race map by Unnamed
+        + Escape - new race map by Goku
+        + Relax - new race map by Bonifarz
+        + Steel Rat - new race map by D.a.M.i.E.n. and TristamK
+        + Tonatiuh - new race map by Bonifarz
+        + War Depot - new race map by TristamK
+    - Other game modes
+        + Abuse - new map by ballist1c
+        + Affluence - new map by Greaserpirate
+        + Campgrounds - new map by ballist1c and Greaserpirate
+        + Canyon - new map by restcoser
+        + Castle - new map by FaTony
+        + Condensation - new map by Unnamed
+        + Convolution - new map by Unnamed
+        + Decay - new map by Unixfreak
+        + Echo2k - remix of Echo by Ulukai
+        + Enyo - new map by Ulukai
+        + Fortitude - new map by Max Payne
+        + Octavus - new map by Unixfreak
+        + Rooftop - new map by FaTony
+* Data Assets:
+    - New vanity items!
+        + Blade
+        + Boots
+        + Chestplate
+        + Crown
+        + Disc
+        + Fox Ears
+        + Guitar
+        + Mask
+        + Microeye
+        + Panda
+        + Prongs
+        + Shoulder armour
+    - New wakawaka sound.
+    - New model for control points used in Defend-and-Control and Bomber-Ball.
+    - New Rocket projectile by Unnamed.
+    - Added texture set by Unnamed.
+    - Added lava texture by Nobiax, applied in maps Hinder, Nova, Tower
+
+As always, have fun playing Red Eclipse!

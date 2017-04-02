@@ -1,0 +1,87 @@
+Red Eclipse v1.2 (Cosmic Edition) is out now. With it we have brought an amazing list of changes, additions, and bug fixes; many of which were inspired by community input and poll results. Over the last year, we have seen our community grow and flourish, along with which the quality of the game has increased greatly. We'd like to thank everyone who played a part in making this our best release yet, and we hope you enjoy it as much as we did creating it.
+
+Downloads:
+* Windows: http://redeclipse.net/download/windows
+* Linux: http://redeclipse.net/download/linux
+* OS X: http://redeclipse.net/download/macos
+* Other/All: http://redeclipse.net/download/combined
+
+CHANGELOG
+
+Gameplay:
+ * Powerjump removed, replaced with "impulse launch", use by jumping whilst
+   "impulse sliding"
+ * Impulse moves now disregard cost and scale depending on available energy
+ * Special melee actions now require an impulse move beforehand
+ * Plasma primary damage increased
+ * Plasma secondary fire travels faster if charged for a short time
+ * Flamer primary & burn damage reduced
+ * SMG rate of fire decreased
+ * Sticky grenade can now stick to player
+ * Zoomlock disabled for rifle
+ * Added weapon stun effect which impedes movement for a certain time
+ * Made the carrier of the flag/bomb move slower
+ * New "buff" system for flag/goal defenders: increases regeneration, damage,
+   and shielding
+Audio & Visuals:
+ * Ingame music
+ * New sounds for pistol, SMG, grenade, sword, player death, hit/bleed, etc.
+ * HUD revamp
+ * View bobbing
+ * New font "Play", extended character support
+ * Female variation of player model (set in profile)
+ * Added visible counter and warning for imminent explosion in Bomber ball
+ * New 'radarstyle' option displaying absolute positions
+Maps:
+ * Ares, new map
+ * Cargo, new map
+ * Colony, new map
+ * Isolation, new map
+ * Purge, new time trial map
+ * Dutility, revamped
+ * Tower, re-added and revamped
+ * Error, added AI waypoints
+Modes & Mutators:
+ * League mutator removed
+ * Instagib-vampire combination disabled
+ * Multi-team mutator re-added
+ * Jetpack mutator re-added
+ * 'instagibfilter' variable: disallow certain mutators combining with instagib
+Modding:
+ * New map editing menu, available via [F3]
+ * Editing mode has been made more obvious to the user
+ * cube2font tool for generating game fonts, including documentation
+ * Ability to add a second cloudlayer with the envlayer command
+ * Ability to specify bitwise modes and mutators on entities that check them
+Misc:
+ * AI waypoints separated out from ents, overall major AI improvements
+ * Split apart kick and ban commands so users can be removed without a ban
+ * Copyright cleanup, new trademark policy
+ * *roff manpages for *nix systems
+ * system-install make target for packaging convenience
+Additional Fixed Bugs:
+ * #8 AI performance issues
+ * #30 Use RE_DIR=$(dirname $0) in launch script
+ * #31 Changing weapon name breaks the entry in Variables GUI
+ * #32 Floating/Infinite Flight Bug
+ * #33 random weapon selection in arena not working
+ * #35 /firstpersondist (exploit)
+ * #37 Player color (skew towards team color)
+ * #38 Tweaking hit sounds for shotgun/flak bleed
+ * #39 teampersist crashes server
+ * #40 dedicated server demo recording is broken
+ * #42 Plasma Blue-Ball-of-Death sticking to Ragdoll
+ * #43 Create lower poly weapon models for item and vwep version
+ * #44 Entity Radius Broken in Edit Mode
+ * #47 Create "botoffset" variable to replace INSERT/DELETE behaviour
+ * #50 Use "aiclip" on common areas where bots can't travel
+ * #53 can't drop flag in ctf-protect
+ * #60 Live Support does not work correctly
+ * #65 Clicking the Red Eclipse icon on map selection without selecting a map
+       produces an error message
+ * #66 Winning a conquer defend-the-flag match yields an insanely high score
+ * #69 Edit mode segfault
+ * #70 Temporarily missing sound for Flamer primary fire after reload
+ * #74 better Link line colors
+ * #81 Killing the opponent team in Survivor CTF/BB does not yield you a point
+
