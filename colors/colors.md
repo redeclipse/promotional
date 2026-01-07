@@ -15,33 +15,36 @@ These are colors that are used in the game itself or in accompanying material.
 
 ### Teams
 
-| Name       |  Hue   |  Value  |
-| ---------- |:------:|:-------:|
-| Team Alpha | Blue   | #1040F8 |
-| Team Omega | Red    | #FF3210 |
-| Neutral    | Grey   | #707070 |
-| Enemies¹   | Yellow | #E0E020 |
+| Name         |  Hue    |  Value  |
+|--------------|:-------:|:-------:|
+| Neutral      | Grey    | #808080 |
+| Team Alpha   | Blue    | #3030F0 |
+| Team Omega   | Red     | #F03030 |
+| Enemies      | Yellow  | #F0F030 |
+| Environment  | Green   | #30F030 |
 
-These colors were extracted from [`src/game/player.h`](https://github.com/redeclipse/base/blob/6984ecb67ddbf8c4719d20517394bb44b9d2a238/src/game/player.h#L94).  
-
-¹    Used in the [`Onslaught`](https://www.redeclipse.net/docs/Modes-and-Mutators#mutators) mutator.
+These colors were extracted from [`src/game/player.h`](https://github.com/redeclipse/base/blob/6438bc62c16d5667bfaba07c2923e1e5a6032fcd/src/game/player.h#L104).  
 
 ### Weapons
 
-| Name    |   Hue  |  Value  |
-| ------- |:------:|:-------:|
-| Claw    | Orange | #907020 |
-| Pistol  | Grey   | #D0D0D0 |
-| Sword   | Blue   | #1010F0 |
-| Shotgun | Yellow | #F0F020 |
-| SMG     | Orange | #F05820 |
-| Flamer  | Red    | #F02020 |
-| Plasma  | Cyan   | #40F0C8 |
-| Zapper  | Purple | #A080F0 |
-| Rifle   | Pink   | #F020F0 |
-| Grenade | Green  | #40F000 |
-| Mine    | Green  | #00F068 |
-| Rocket  | Orange | #803000 |
-| Melee   | Grey   | #606060 |
+| Name      | Hue        | Value    |
+|-----------|------------|----------|
+| Claw      | Brown      | #D2691E  |
+| Pistol    | White      | #FFFFFF  |
+| Sword     | Blue       | #1010FF  |
+| Shotgun   | Yellow     | #FFFF00  |
+| SMG       | Orange     | #FF9C10  |
+| Flamer    | Red        | #FF1010  |
+| Plasma    | Cyan       | #10FFFF  |
+| Zapper    | Purple     | #4B10A6  |
+| Rifle     | Magenta    | #901090  |
+| Corroder  | Green      | #109010  |
+| Grenade   | Light Green| #60F060  |
+| Mine      | Teal       | #42D4CC  |
+| Rocket    | Pink       | #FF1493  |
+| Minigun   | Orange Red | #FF4C10  |
+| Jetsaw    | Blue       | #1040C0  |
+| Eclipse   | Dark Red   | #3F0000  |
+| Melee     | White      | #FFFFFF  |
 
-These colors were extracted from [`src/game/weapons.h`](https://github.com/redeclipse/base/blob/23be4849f2269a1b463c943cd84cbcdd39da5b2d/src/game/weapons.h#L305).
+These colors were extracted from [`src/game/weapons.h`](https://github.com/redeclipse/base/blob/6438bc62c16d5667bfaba07c2923e1e5a6032fcd/src/game/weapons.h#L456).
